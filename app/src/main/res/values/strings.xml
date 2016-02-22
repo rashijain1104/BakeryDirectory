@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Dessert Directory</string>
+
+    <string name="action_settings">Settings</string>
+    <string-array name="animals">
+        <item>blue berry cake</item>
+        <item>cheese cake</item>
+        <item>tiramisu</item>
+        <item>bun cake</item>
+        <item>Swiss Roll</item>
+
+    </string-array>
+    <string name="zoo">Bakery Information</string>
+    <string name="logout">Logout</string>
+    <string name="empty_message">Sorry, there are no animals.</string>
+</resources>
